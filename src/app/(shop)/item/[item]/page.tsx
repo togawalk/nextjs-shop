@@ -1,9 +1,7 @@
-import Example from "@/components/product";
+import Example from "@/components/product"
 
 const ProductPage = () => {
-  return (
-    <Example />
-  );
+  return <Example />
 }
 
-export default ProductPage;
+export default ProductPage
